@@ -53,7 +53,7 @@ Kitex 大部分服务治理模块都是通过 middleware 集成，熔断也是�
 
 这里是一篇更详细的[熔断器介绍](https://msdn.microsoft.com/zh-cn/library/dn589784.aspx)。
 
-比较出名的熔断器当属 hystrix 了，这里是它的[设计文档](https：//github.com/Netflix/Hystrix/wiki)。
+比较出名的熔断器当属 hystrix 了，这里是它的[设计文档](https://github.com/Netflix/Hystrix/wiki)。
 
 ## 熔断策略
 
